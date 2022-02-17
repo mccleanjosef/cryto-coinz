@@ -1,0 +1,4 @@
+step 1: rename keyCopy.js to key.js
+step 2: replace YOUR API KEY with your api key
+
+Note: Use css compiler (e.g Koala) to run sass.
